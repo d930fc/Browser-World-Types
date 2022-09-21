@@ -1,4 +1,4 @@
-# Browser App Types
+# Credits
 
 - [JavaScript Primitive Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript Standard Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
