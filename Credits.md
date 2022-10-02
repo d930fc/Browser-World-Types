@@ -1,6 +1,9 @@
 # Credits
 
-- [Primitive Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
+- Primitive Types
+	- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 - Compound Types
-	- [Standard Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/)
-	- [Platform Types](https://developer.mozilla.org/en-US/docs/Web/API/)
+	- [JavaScript stdlib](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/)
+	- [Web API](https://developer.mozilla.org/en-US/docs/Web/API/)
+- Program Types
+	- [Chromium](https://www.chromium.org/Home/)
