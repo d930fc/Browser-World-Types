@@ -1,8 +1,8 @@
 # Credits
 
-Primitive Types
+Predefined Types
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 
-Compound Types
+Object Types
 - [stdlib](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/)
 - [Web](https://developer.mozilla.org/en-US/docs/Web/API/)
