@@ -7,6 +7,8 @@
 
 - Object Types
 	- [JavaScript Standard Library](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/)
+	- HTML Standard Library
+	- CSS Standard Library
 	- [UnHTML Library](https://github.com/unformated/UnHTML/)
 	- [UnCSS Library](https://github.com/unformated/UnCSS/)
 	- [Browser Library](https://developer.mozilla.org/en-US/docs/Web/API/)
