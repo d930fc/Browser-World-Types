@@ -6,7 +6,7 @@
 	- [CSS Formatting Language](https://developer.mozilla.org/en-US/docs/Web/CSS/)
 
 - Object Types
-	- [JavaScript stdlib](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/)
-	- [UnHTML DFI](https://github.com/unformated/UnHTML/)
-	- [UnCSS DFI](https://github.com/unformated/UnCSS/)
-	- [Browser API](https://developer.mozilla.org/en-US/docs/Web/API/)
+	- [JavaScript Standard Library](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/)
+	- [UnHTML Library](https://github.com/unformated/UnHTML/)
+	- [UnCSS Library](https://github.com/unformated/UnCSS/)
+	- [Browser Library](https://developer.mozilla.org/en-US/docs/Web/API/)
