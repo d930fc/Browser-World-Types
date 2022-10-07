@@ -7,4 +7,4 @@
 
 - Object Types
 	- [JavaScript stdlib](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/)
-	- [Browsers API](https://developer.mozilla.org/en-US/docs/Web/API/)
+	- [Browser API](https://developer.mozilla.org/en-US/docs/Web/API/)
