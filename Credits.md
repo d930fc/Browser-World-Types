@@ -7,6 +7,6 @@
 
 - Object Types
 	- [JavaScript stdlib](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/)
-	- [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/)
+	- [HTML Elements and Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/)
 	- [CSS Selectors and Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/)
 	- [Browser API](https://developer.mozilla.org/en-US/docs/Web/API/)
