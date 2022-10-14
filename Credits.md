@@ -10,5 +10,3 @@
 	- Standard Library
 	- Standard Library
 	- [Browser Library](https://developer.mozilla.org/en-US/docs/Web/API/)
-	- [UnHTML Library](https://github.com/formatless/UnHTML/)
-	- [UnCSS Library](https://github.com/formatless/UnCSS/)
