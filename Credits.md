@@ -7,6 +7,6 @@
 
 - Object Types
 	- [Standard Library](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/)
-	- Standard Library
-	- Standard Library
+	- ~~Standard Library~~
+	- ~~Standard Library~~
 	- [Browser Library](https://developer.mozilla.org/en-US/docs/Web/API/)
