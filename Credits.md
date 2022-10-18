@@ -10,3 +10,5 @@
 	- ~~Standard Library~~
 	- ~~Standard Library~~
 	- [Browser Library](https://developer.mozilla.org/en-US/docs/Web/API/)
+
+- Executable Types
