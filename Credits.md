@@ -12,3 +12,4 @@
 	- [Browser Library](https://developer.mozilla.org/en-US/docs/Web/API/)
 
 - Executable Types
+	- To Be Continued
