@@ -6,9 +6,9 @@
 	- [CSS Formatting Language](https://developer.mozilla.org/en-US/docs/Web/CSS/)
 
 - Object Types
-	- [Standard Library](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/)
-	- ~~Standard Library~~
-	- ~~Standard Library~~
+	- [JavaScript Standard Library](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/)
+	- ~~HTML Standard Library~~
+	- ~~CSS Standard Library~~
 	- [Browser Library](https://developer.mozilla.org/en-US/docs/Web/API/)
 
 - Executable Types
