@@ -1,4 +1,4 @@
-# Credits
+# Browser World Types
 
 - Predefined Types
 	- [JavaScript Programming Language](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
