@@ -5,7 +5,7 @@
 	- [HTML Formatting Language](https://developer.mozilla.org/en-US/docs/Web/HTML/)
 	- [CSS Formatting Language](https://developer.mozilla.org/en-US/docs/Web/CSS/)
 
-- Object Types
+- Custom Types
 	- [JavaScript Standard Library](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/)
 	- ~~HTML Standard Library~~
 	- ~~CSS Standard Library~~
