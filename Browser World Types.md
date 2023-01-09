@@ -2,8 +2,8 @@
 
 - Predefined Types
 	- [JavaScript Programming Language](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
-	- [HTML Formatting Language](https://developer.mozilla.org/en-US/docs/Web/HTML/)
-	- [CSS Formatting Language](https://developer.mozilla.org/en-US/docs/Web/CSS/)
+	- [HTML Typography Language](https://developer.mozilla.org/en-US/docs/Web/HTML/)
+	- [CSS Typography Language](https://developer.mozilla.org/en-US/docs/Web/CSS/)
 
 - Custom Types
 	- [JavaScript Standard Library](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/)
