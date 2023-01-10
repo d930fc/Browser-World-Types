@@ -10,6 +10,7 @@
 	- ~~HTML Standard Library~~
 	- ~~CSS Standard Library~~
 	- [Browser Library](https://developer.mozilla.org/en-US/docs/Web/API/)
+	- User-defined Types
 
 - Smartcore Types and Information Types
 	- No Discussion
